@@ -1,1 +1,1 @@
-# admin-front
+# Admin panel
